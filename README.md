@@ -19,7 +19,7 @@ cat ~/popm-address.json
 
 - Join Discord : https://discord.gg/hemixyz
 - Got To Server Faucet Click /faucet Your-EVM-Wallet
-- Claim Faucet tBTC : https://coinfaucet.eu/en/btc-testnet/
+- Claim Faucet tBTC On Discord or Web : https://coinfaucet.eu/en/btc-testnet/
 - Use Pubkey Hash Address
 - Done
 
