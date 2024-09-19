@@ -3,7 +3,7 @@ Hemi CLI PoP Miner
 
 ![s1](https://github.com/user-attachments/assets/488a8719-7f5e-4813-9f14-213403bd5d02)
 
-1. ### Install
+### 1. Install
 
 ```
 bash <(curl -s https://file.winsnip.xyz/file/uploads/hami-miner.sh)
@@ -11,12 +11,12 @@ bash <(curl -s https://file.winsnip.xyz/file/uploads/hami-miner.sh)
 
 ![s2](https://github.com/user-attachments/assets/563e4cac-9f86-4dae-8d50-3782aa59c91e)
 
-2. ### Backup Data Wallet, Private Key, Pubkey Hash Dll
+### 2. Backup Data Wallet, Private Key, Pubkey Hash Dll
 
 ```
 cat ~/popm-address.json
 ```
-3. ### Claim Faucet
+### 3. Claim Faucet
 
 - Join Discord : https://discord.gg/hemixyz
 - Got To Server Faucet Click /faucet Your-EVM-Wallet
@@ -26,7 +26,7 @@ cat ~/popm-address.json
 
 ![binance 1](https://github.com/user-attachments/assets/622da40a-a323-4a1d-806d-8807b7c7e75f)
 
-4. ### Restart Node and Check Log
+### 4. Restart Node and Check Log
 
 ```
 #check log
@@ -38,13 +38,13 @@ sudo journalctl -u heminetwork -f
 sudo systemctl restart heminetwork
 ```
 
-5. ### Check Explorer
+### 5. Check Explorer
 
 - Open : https://pop-miner.hemi.xyz/fund
 - Paste Private Key
 - Done and See
 
-6. ### Delete Node (Optional)
+### 6. Delete Node (Optional)
 
 ```
 sudo systemctl stop heminetwork && \
