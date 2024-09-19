@@ -1,5 +1,4 @@
-# Hemi-Miner
-Hemi CLI PoP Miner
+# Hemi CLI PoP Miner
 
 ![s1](https://github.com/user-attachments/assets/488a8719-7f5e-4813-9f14-213403bd5d02)
 
@@ -37,6 +36,8 @@ sudo journalctl -u heminetwork -f
 #restart node
 sudo systemctl restart heminetwork
 ```
+
+![AIRDROP TAP TAP (1)](https://github.com/user-attachments/assets/17fefea3-9872-41eb-8e7e-9a049090f773)
 
 ### 5. Check Explorer
 
